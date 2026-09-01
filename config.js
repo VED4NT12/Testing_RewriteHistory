@@ -3,4 +3,6 @@ const config = {
     password: "AnotherSecret456"
 };
 
+console.log("Application started");
+
 module.exports = config;
