@@ -1,8 +1,6 @@
-// config.js
-
 const config = {
     username: "admin",
-    password: "Password123"
+    password: "AnotherSecret456"
 };
 
 module.exports = config;
